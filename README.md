@@ -35,7 +35,7 @@ Pin | Use | Relè Connections
 35, 34, 33, 32 | Resistances | IN3, IN4, IN5, IN6
 31 | Fan | IN7
 30 | UV LED | IN8
-22 | Servomotor | 
+3 | Servomotor | 
 43 | BTNSERVO | 
 42 | Input DHT11 | 
 53 | BTNSTART | 
